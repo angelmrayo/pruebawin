@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <ComboBox HorizontalAlignment="Left" Margin="99,102,0,0" VerticalAlignment="Top" Width="120"/>
+        <DatePicker HorizontalAlignment="Left" Margin="408,85,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="61,227,0,0" VerticalAlignment="Top" Width="75"/>
+        <Calendar HorizontalAlignment="Left" Margin="334,177,0,0" VerticalAlignment="Top" Width="218"/>
+
     </Grid>
 </Window>
